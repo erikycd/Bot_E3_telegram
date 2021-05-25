@@ -4,19 +4,28 @@
 
 ## Bot currently available in telegram and mounted in an instance of [AWS-EC2](https://aws.amazon.com/ec2/?ec2-whats-new.sort-by=item.additionalFields.postDateTime&ec2-whats-new.sort-order=desc)
 
-### Installing
+### Installation requirements
 
-You can install or upgrade python-telegram-bot with:
+You should install or upgrade python-telegram-bot by the command:
 
 ```
 $ pip install python-telegram-bot --upgrade
 ```
 
+It would be needed the wolframalpha libraries. Install them with:
+```
+$ pip install wolframalpha
+```
+
+### Main execution
+
+A diagram of basic implementation is shown below:
+
 <p align="center">
   <img width="60%" src="https://raw.githubusercontent.com/erikycd/Bot_E3_telegram/main/Diagram_1.png">
 </p>
 
-After creating manually a bot in telegram. Insert your token in the line:
+After creating a bot in telegram with the help of [@BotFather](https://core.telegram.org/bots#6-botfather). Insert your token in the line:
 ```python
 updater =  Updater('', use_context=True) # Insert here API code of telegram
 ```
