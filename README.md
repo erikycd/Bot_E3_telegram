@@ -1,8 +1,6 @@
 # Bot_E3_telegram
 
-## Bot designed with APIs of both [Telegram](https://github.com/python-telegram-bot/python-telegram-bot) and [Wolframalpha](https://products.wolframalpha.com/api/documentation/). 
-
-## Bot currently available in telegram and mounted in an instance of [AWS-EC2](https://aws.amazon.com/ec2/?ec2-whats-new.sort-by=item.additionalFields.postDateTime&ec2-whats-new.sort-order=desc)
+Bot designed with APIs of both [Telegram](https://github.com/python-telegram-bot/python-telegram-bot) and [Wolframalpha](https://products.wolframalpha.com/api/documentation/). The bot is currently available in telegram and mounted in an instance of [AWS-EC2](https://aws.amazon.com/ec2/?ec2-whats-new.sort-by=item.additionalFields.postDateTime&ec2-whats-new.sort-order=desc)
 
 ### Installation requirements
 
