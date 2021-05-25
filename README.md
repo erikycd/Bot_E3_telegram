@@ -27,7 +27,7 @@ After creating a bot in telegram with the help of [@BotFather](https://core.tele
 ```python
 updater =  Updater('', use_context=True) # Insert here API code of telegram
 ```
-Moreover, you must insert your token of wolframalpha in line:
+Moreover, you should be registered as [Wolframalpha developer](https://products.wolframalpha.com/simple-api/documentation/), then insert your token in line:
 ```python
 app_id = '' # Insert here API code of wolframalpha 
 client = wolframalpha.Client(app_id)
