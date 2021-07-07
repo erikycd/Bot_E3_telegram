@@ -4,20 +4,20 @@ Bot designed with the APIs of both [Telegram](https://github.com/python-telegram
 
 ### Installation requirements
 
-You should install or upgrade python-telegram-bot by the command:
+Install or upgrade python-telegram-bot by the command:
 
 ```
 $ pip install python-telegram-bot --upgrade
 ```
 
-It would be needed the wolframalpha libraries. Install them with:
+Wolframalpha libraries are required. Install them with:
 ```
 $ pip install wolframalpha
 ```
 
 ### Main execution
 
-A diagram of basic implementation is shown below:
+Basic implementation diagram is shown below:
 
 <p align="center">
   <img width="60%" src="https://raw.githubusercontent.com/erikycd/Bot_E3_telegram/main/Diagram_1.png">
