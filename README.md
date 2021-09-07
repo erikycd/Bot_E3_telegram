@@ -7,7 +7,17 @@ The designed chatbot follows the guides for connecting the APIs of [Telegram](ht
 
 This bot is currently available in telegram and mounted on [AWS-EC2](https://aws.amazon.com/ec2/?ec2-whats-new.sort-by=item.additionalFields.postDateTime&ec2-whats-new.sort-order=desc) free instance.
 
-### - Main diagram
+## Table of content
+
+[Main Diagram](https://github.com/erikycd/Bot_E3_telegram#--main-diagram)
+
+[Installation requirements](https://github.com/erikycd/Bot_E3_telegram#--installation-requirements)
+
+[API Basic configuration](https://github.com/erikycd/Bot_E3_telegram#--basic-configuration)
+
+[Conversational results](https://github.com/erikycd/Bot_E3_telegram#--conversational-results)
+
+## Main diagram
 
 A diagram of the implementation is shown below:
 
@@ -15,7 +25,7 @@ A diagram of the implementation is shown below:
   <img width="60%" src="https://raw.githubusercontent.com/erikycd/Bot_E3_telegram/main/Diagram_2.png">
 </p>
 
-### - Installation requirements
+## Installation requirements
 
 Install or upgrade python-telegram-bot by the command:
 
@@ -33,7 +43,7 @@ Install twitter libraries by:
 $ pip install tweepy
 ```
 
-### - Basic configuration
+## Basic configuration
 
 After creating a bot in telegram with the help of [@BotFather](https://core.telegram.org/bots#6-botfather). Insert your token in the line:
 ```python
@@ -45,7 +55,7 @@ app_id = '' # Insert here API code of wolframalpha
 client = wolframalpha.Client(app_id)
 ```
 
-### - Conversational results
+## Conversational results
 
 <p align="center">
   <img width="40%" src="https://github.com/erikycd/Bot_E3_telegram/blob/main/ezgif.com-video-to-gif.gif">
