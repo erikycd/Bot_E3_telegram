@@ -20,13 +20,15 @@ Install twitter libraries by:
 $ pip install tweepy
 ```
 
-### Main execution
+### Main diagram
 
-Basic implementation diagram is shown below:
+A diagram of the implementation is shown below:
 
 <p align="center">
   <img width="60%" src="https://raw.githubusercontent.com/erikycd/Bot_E3_telegram/main/Diagram_2.png">
 </p>
+
+### Basic configuration
 
 After creating a bot in telegram with the help of [@BotFather](https://core.telegram.org/bots#6-botfather). Insert your token in the line:
 ```python
@@ -37,6 +39,8 @@ Moreover, you should be registered as [Wolframalpha developer](https://products.
 app_id = '' # Insert here API code of wolframalpha 
 client = wolframalpha.Client(app_id)
 ```
+
+### Conversational results
 
 <p align="center">
   <img width="40%" src="https://github.com/erikycd/Bot_E3_telegram/blob/main/ezgif.com-video-to-gif.gif">
