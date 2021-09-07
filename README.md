@@ -9,13 +9,13 @@ This bot is currently available in telegram and mounted on [AWS-EC2](https://aws
 
 ## Table of content
 
-[Main Diagram](https://github.com/erikycd/Bot_E3_telegram#--main-diagram)
+[Main Diagram](https://github.com/erikycd/Bot_E3_telegram#main-diagram)
 
-[Installation requirements](https://github.com/erikycd/Bot_E3_telegram#--installation-requirements)
+[Installation requirements](https://github.com/erikycd/Bot_E3_telegram#installation-requirements)
 
-[API Basic configuration](https://github.com/erikycd/Bot_E3_telegram#--basic-configuration)
+[API Basic configuration](https://github.com/erikycd/Bot_E3_telegram#basic-configuration)
 
-[Conversational results](https://github.com/erikycd/Bot_E3_telegram#--conversational-results)
+[Conversational results](https://github.com/erikycd/Bot_E3_telegram#conversational-results)
 
 ## Main diagram
 
