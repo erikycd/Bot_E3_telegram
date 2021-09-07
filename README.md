@@ -25,7 +25,7 @@ $ pip install tweepy
 Basic implementation diagram is shown below:
 
 <p align="center">
-  <img width="60%" src="https://raw.githubusercontent.com/erikycd/Bot_E3_telegram/main/Diagram_1.png">
+  <img width="60%" src="https://raw.githubusercontent.com/erikycd/Bot_E3_telegram/main/Diagram_2.png">
 </p>
 
 After creating a bot in telegram with the help of [@BotFather](https://core.telegram.org/bots#6-botfather). Insert your token in the line:
