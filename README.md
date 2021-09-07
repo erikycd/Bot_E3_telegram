@@ -1,6 +1,6 @@
 # Bot_E3_telegram
 
-Bot designed with the APIs of both [Telegram](https://github.com/python-telegram-bot/python-telegram-bot) and [Wolframalpha](https://products.wolframalpha.com/api/documentation/). Our bot is currently available in telegram and mounted on an [AWS-EC2](https://aws.amazon.com/ec2/?ec2-whats-new.sort-by=item.additionalFields.postDateTime&ec2-whats-new.sort-order=desc) instance.
+The designed chatbot follows the guides for connecting the APIs of [Telegram](https://github.com/python-telegram-bot/python-telegram-bot), [Wolframalpha](https://products.wolframalpha.com/api/documentation/) and [Twitter](https://realpython.com/twitter-bot-python-tweepy/). This bot is currently available in telegram and mounted on [AWS-EC2](https://aws.amazon.com/ec2/?ec2-whats-new.sort-by=item.additionalFields.postDateTime&ec2-whats-new.sort-order=desc) free instance.
 
 ### Installation requirements
 
@@ -13,6 +13,11 @@ $ pip install python-telegram-bot --upgrade
 Wolframalpha libraries are required. Install them with:
 ```
 $ pip install wolframalpha
+```
+
+Install twitter libraries by:
+```
+$ pip install tweepy
 ```
 
 ### Main execution
