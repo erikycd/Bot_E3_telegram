@@ -1,6 +1,11 @@
 # Bot_E3_telegram
 
-The designed chatbot follows the guides for connecting the APIs of [Telegram](https://github.com/python-telegram-bot/python-telegram-bot), [Wolframalpha](https://products.wolframalpha.com/api/documentation/) and [Twitter](https://realpython.com/twitter-bot-python-tweepy/). This bot is currently available in telegram and mounted on [AWS-EC2](https://aws.amazon.com/ec2/?ec2-whats-new.sort-by=item.additionalFields.postDateTime&ec2-whats-new.sort-order=desc) free instance.
+The designed chatbot follows the guides for connecting the APIs of [Telegram](https://github.com/python-telegram-bot/python-telegram-bot), [Wolframalpha](https://products.wolframalpha.com/api/documentation/) and [Twitter](https://realpython.com/twitter-bot-python-tweepy/). 
+
+1. The idea behind this project is to show the conversational skills of the Wolframalpha artificial intelligence by means of Telegram. It can be also used as a bot for data inquiries to search in both Wolframalpha and Wikipedia datasets. 
+2. This bot is also designed for estimating the real risk transmitted by a Twitter post.
+
+This bot is currently available in telegram and mounted on [AWS-EC2](https://aws.amazon.com/ec2/?ec2-whats-new.sort-by=item.additionalFields.postDateTime&ec2-whats-new.sort-order=desc) free instance.
 
 ### - Main diagram
 
