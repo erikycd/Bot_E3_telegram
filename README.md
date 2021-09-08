@@ -17,6 +17,8 @@ This bot is currently available in telegram and mounted on [AWS-EC2](https://aws
 
 4. [Conversational results](https://github.com/erikycd/Bot_E3_telegram#conversational-results)
 
+5. [Emergency predictor sample](https://github.com/erikycd/Bot_E3_telegram#emergency-predictor-sample)
+
 ## Main diagram
 
 A diagram of the implementation is shown below:
@@ -71,7 +73,13 @@ api = tweepy.API(auth)
 ## Conversational results
 
 <p align="center">
-  <img width="40%" src="https://github.com/erikycd/Bot_E3_telegram/blob/main/ezgif.com-video-to-gif.gif">
+  <img width="40%" src="https://github.com/erikycd/Bot_E3_telegram/blob/main/chat_bot.gif">
 </p>
 
-### - Visit him at: https://t.me/E3_demoBot
+## Emergency predictor sample
+
+<p align="center">
+  <img width="40%" src="https://github.com/erikycd/Bot_E3_telegram/blob/main/twitter_pred.gif">
+</p>
+
+## - Visit him at: https://t.me/E3_demoBot
