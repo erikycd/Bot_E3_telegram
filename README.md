@@ -24,7 +24,7 @@ This bot is currently available in telegram and mounted on [AWS-EC2](https://aws
 A diagram of the implementation is shown below:
 
 <p align="center">
-  <img width="60%" src="https://raw.githubusercontent.com/erikycd/Bot_E3_telegram/main/Diagram_2.png">
+  <img width="70%" src="https://raw.githubusercontent.com/erikycd/Bot_E3_telegram/main/Diagram_2.png">
 </p>
 
 ## Installation requirements
